@@ -12,3 +12,26 @@ body {
     background-position: center;
     height: 100vh;
 }
+.navbar {
+    background: none;
+}
+.navbar-brand {
+    font-size: 20px;
+}
+nav ul li {
+    display: inline-block;
+    padding-top: 1rem;
+    margin: 0 10px;
+    color: white;
+    font-size: 20px;
+}
+.list {
+    padding-left: 35rem;
+}
+.btn {
+    background-color: #DFA711;
+    color: white;
+}
+.vision {
+    padding: 5rem;
+}
